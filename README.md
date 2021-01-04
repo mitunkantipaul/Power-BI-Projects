@@ -1,4 +1,5 @@
 # Power-BI-Projects
+Credit: [Qasim B.](https://www.upwork.com/fl/qasimbhatti)
 
 ### COVID 19 DATA ANALYSIS
 Creating Dashboad for visualization:
